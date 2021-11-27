@@ -1,1 +1,1 @@
-# smoothen_image_hardware
+Abstract—This project processes an image using an HDL (Verilog) to all the images RGB values and save the corresponding output to a file. The file read will be converted to hexadecimal values using MATLAB. The smoothening and edge detection of the file values will be done in XILINX compiler.
